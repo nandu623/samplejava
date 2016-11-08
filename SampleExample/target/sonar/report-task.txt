@@ -1,0 +1,5 @@
+projectKey=org.javacodegeeks:sonarmaven
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/org.javacodegeeks:sonarmaven
+ceTaskId=AVWBOnDHfO9L_09bfV52
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVWBOnDHfO9L_09bfV52
